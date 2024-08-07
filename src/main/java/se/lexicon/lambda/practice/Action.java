@@ -1,4 +1,4 @@
-package se.lexicon.practice;
+package se.lexicon.lambda.practice;
 
 @FunctionalInterface
 public interface Action {

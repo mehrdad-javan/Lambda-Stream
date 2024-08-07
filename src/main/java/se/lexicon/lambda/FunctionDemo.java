@@ -1,4 +1,4 @@
-package se.lexicon;
+package se.lexicon.lambda;
 
 import java.text.DecimalFormat;
 import java.util.function.BiFunction;

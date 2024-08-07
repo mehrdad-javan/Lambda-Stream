@@ -1,6 +1,6 @@
-package se.lexicon;
+package se.lexicon.lambda;
 
-import se.lexicon.practice.Product;
+import se.lexicon.lambda.practice.Product;
 
 import java.util.ArrayList;
 import java.util.List;

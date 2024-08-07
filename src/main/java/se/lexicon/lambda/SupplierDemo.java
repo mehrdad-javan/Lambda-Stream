@@ -1,4 +1,4 @@
-package se.lexicon;
+package se.lexicon.lambda;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
